@@ -1,0 +1,3 @@
+[submodule "submodules/fsSubModule"]
+	path = submodules/fsSubModule
+	url = https://github.com/finsquirrel/subModule.git
